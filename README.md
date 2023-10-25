@@ -3,7 +3,7 @@
 
 
 
-A brief description of what this project does and who it's for
+Program that generates random planets, with moons
 
 
 ## Creator
